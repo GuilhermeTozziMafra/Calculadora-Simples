@@ -1,5 +1,5 @@
 ## Calculadora Simples
-#### Segue a baixo 
+#### Segue a baixo o projeto de uma calculadora normal, que consegue fazer as operações básicas (*soma*,*subtração*,*multiplicação*,*divisão*) utilizando as linguagens *HTML, CSS e JS* linguagens front-end.
 ### Desenvolvido com *HTML, CSS e JS*.
 <div style="display: inline_block" >
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
